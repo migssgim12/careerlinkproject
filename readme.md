@@ -1,5 +1,4 @@
-# My Portfolio
-
+# Advancements in Tech
 #### _Created Webpage of research in the Tech industry_
 
 #### By Michael Poehner
@@ -9,7 +8,7 @@
 This is a project that was done in Career Link. It was a group project that focussed on Advancements in Technology.
 
 
-https://mpoehner.github.io/careerlinkproject
+https://migssgim12.github.io/careerlinkproject
 ## Known Bugs
 
 _N/A_
@@ -29,4 +28,4 @@ This software is Licensed under the MIT License
 
 
 
-Copyright (c) 2016 Michael Poehner All Rights Reserved.
+Copyright (c) 2017 Michael Poehner All Rights Reserved.
